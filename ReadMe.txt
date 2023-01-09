@@ -1,4 +1,4 @@
-Predictions for energy production through Machine Learning(ML) techniques
+Predictions for energy consumption through Machine Learning techniques
 
 A data file is received (TrainSet.csv), containing information about:
 > datetime_utc: Day and Time
